@@ -6,11 +6,11 @@ Dự án này được thực hiện nhằm phân tích và thiết kế hệ th
 
 ## 👨‍💻 Thành viên nhóm (Nhóm 5 người)
 
-1. Vũ Minh Ánh - Trưởng nhóm
-2. Lê Đức Phương 
-3. Nguyễn Ngọc Sơn
-4. Lê Quang Huy
-5. Lê Vĩnh Hoàng
+1. Vũ Minh Ánh - 20225258 - Trưởng nhóm
+2. Lê Đức Phương - 20225380
+3. Nguyễn Ngọc Sơn - 20225390
+4. Lê Quang Huy - 20225333
+5. Lê Vĩnh Hoàng - 20225322
 
 ## 📌 Nội dung dự án
 
@@ -73,23 +73,24 @@ Các chức năng chính bao gồm:
 
 ## 📅 Tiến độ
 
-| Ngày       | Công việc                                        | Trạng thái   |
-|------------|----------------------------------|-------------------------------|
-| Tuần 1     | Phân tích yêu cầu                               | ✅ Hoàn thành |
-| Tuần 2     | Vẽ Use Case Diagram                             | ✅ Hoàn thành |
-| Tuần 3     | Vẽ Sequence Diagrams                            | ✅ Hoàn thành |
-| Tuần 4     | Vẽ  Activity Diagrams                           | ✅ Hoàn thành |
-| Tuần 5     | Vẽ State Machine Diagrams                       | ✅ Hoàn thành |
-| Tuần 6     | Vẽ Class Diagrams                               | ✅ Hoàn thành |
-| Tuần 7     | Tổng hợp, chỉnh sửa, hoàn thiện và làm báo cáo  | ✅ Hoàn thành |
+| Ngày       | Công việc                       | Trạng thái   |
+|------------|----------------------------------|--------------|
+| Tuần 1     | Phân tích yêu cầu                | ✅ Hoàn thành |
+| Tuần 2     | Vẽ Use Case Diagram              | ✅ Hoàn thành |
+| Tuần 3     | Vẽ Sequence Diagram              | ✅ Hoàn thành |
+| Tuần 4     | Vẽ Activity Diagram              | ✅ Hoàn thành |
+| Tuần 5     | Vẽ State Machine                 | ✅ Hoàn thành |
+| Tuần 6     | Vẽ Class Diagram                 | ✅ Hoàn thành |
+| Tuần 7     | Tổng hợp, chỉnh sửa, hoàn thiện  | ✅ Hoàn thành |
 
 ## 📎 Liên hệ
 
 Mọi thắc mắc hoặc góp ý vui lòng liên hệ trưởng nhóm tại:  
-📧 anh.vm225258@sis.hust.edu.vn
+📧 anhvuminh@gmail.com
 
 ---
 
-> *Dự án thuộc môn: Phân Tích và Thiết Kế Hệ Thống Thông Tin*  
+> *Dự án thuộc môn: Phân Tích và Thiết Kế Hệ Thống Thông Tin*
+> *Giáo viên hướng dẫn: Trần Việt Trung*
 > *Trường Đại học Bách Khoa Hà Nội*
 
