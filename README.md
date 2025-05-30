@@ -73,15 +73,15 @@ Các chức năng chính bao gồm:
 
 ## 📅 Tiến độ
 
-| Ngày       | Công việc                       | Trạng thái   |
-|------------|----------------------------------|--------------|
-| Tuần 1     | Phân tích yêu cầu                | ✅ Hoàn thành |
-| Tuần 2     | Vẽ Use Case Diagram              | ✅ Hoàn thành |
-| Tuần 3     | Vẽ Sequence Diagrams             | ✅ Hoàn thành |
-| Tuần 4     | Vẽ  Activity Diagrams            | ✅ Hoàn thành |
-| Tuần 5     | Vẽ State Machine Diagrams        | ✅ Hoàn thành |
-| Tuần 6     | Vẽ Class Diagrams                | ✅ Hoàn thành |
-| Tuần 5     | Tổng hợp, chỉnh sửa, hoàn thiện  | ✅ Hoàn thành |
+| Ngày       | Công việc                                        | Trạng thái   |
+|------------|----------------------------------|-------------------------------|
+| Tuần 1     | Phân tích yêu cầu                               | ✅ Hoàn thành |
+| Tuần 2     | Vẽ Use Case Diagram                             | ✅ Hoàn thành |
+| Tuần 3     | Vẽ Sequence Diagrams                            | ✅ Hoàn thành |
+| Tuần 4     | Vẽ  Activity Diagrams                           | ✅ Hoàn thành |
+| Tuần 5     | Vẽ State Machine Diagrams                       | ✅ Hoàn thành |
+| Tuần 6     | Vẽ Class Diagrams                               | ✅ Hoàn thành |
+| Tuần 7     | Tổng hợp, chỉnh sửa, hoàn thiện và làm báo cáo  | ✅ Hoàn thành |
 
 ## 📎 Liên hệ
 
