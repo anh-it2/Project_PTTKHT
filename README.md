@@ -77,14 +77,16 @@ Các chức năng chính bao gồm:
 |------------|----------------------------------|--------------|
 | Tuần 1     | Phân tích yêu cầu                | ✅ Hoàn thành |
 | Tuần 2     | Vẽ Use Case Diagram              | ✅ Hoàn thành |
-| Tuần 3     | Vẽ Sequence & Activity Diagrams  | ✅ Hoàn thành |
-| Tuần 4     | Vẽ State Machine & Class Diagrams| ✅ Hoàn thành |
+| Tuần 3     | Vẽ Sequence Diagrams             | ✅ Hoàn thành |
+| Tuần 4     | Vẽ  Activity Diagrams            | ✅ Hoàn thành |
+| Tuần 5     | Vẽ State Machine Diagrams        | ✅ Hoàn thành |
+| Tuần 6     | Vẽ Class Diagrams                | ✅ Hoàn thành |
 | Tuần 5     | Tổng hợp, chỉnh sửa, hoàn thiện  | ✅ Hoàn thành |
 
 ## 📎 Liên hệ
 
 Mọi thắc mắc hoặc góp ý vui lòng liên hệ trưởng nhóm tại:  
-📧 anhvuminh@gmail.com
+📧 anh.vm225258@sis.hust.edu.vn
 
 ---
 
