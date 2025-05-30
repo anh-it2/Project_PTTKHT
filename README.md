@@ -91,6 +91,8 @@ Mọi thắc mắc hoặc góp ý vui lòng liên hệ trưởng nhóm tại:
 ---
 
 > *Dự án thuộc môn: Phân Tích và Thiết Kế Hệ Thống Thông Tin*
+> 
 > *Giáo viên hướng dẫn: Trần Việt Trung*
+> 
 > *Trường Đại học Bách Khoa Hà Nội*
 
